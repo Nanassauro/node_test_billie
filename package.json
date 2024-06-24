@@ -1,0 +1,19 @@
+{
+  "name": "node_test_billie",
+  "version": "1.0.0",
+  "description": "teste da esther",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Nanassauro/node_test_billie.git"
+  },
+  "author": "marimilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nanassauro/node_test_billie/issues"
+  },
+  "homepage": "https://github.com/Nanassauro/node_test_billie#readme"
+}
